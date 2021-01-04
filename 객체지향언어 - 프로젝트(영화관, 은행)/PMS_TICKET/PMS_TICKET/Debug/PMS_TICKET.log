@@ -1,0 +1,4 @@
+﻿  Screen.cpp
+c:\users\82102\desktop\대학공부\2020-1\객체지향언어\과제\pms_ticket\pms_ticket\screen.cpp(152): warning C4101: 'price' :참조되지 않은 지역 변수입니다.
+  PMS_TICKET.vcxproj -> C:\Users\82102\Desktop\대학공부\2020-1\객체지향언어\과제\PMS_TICKET\Debug\PMS_TICKET.exe
+  PMS_TICKET.vcxproj -> C:\Users\82102\Desktop\대학공부\2020-1\객체지향언어\과제\PMS_TICKET\Debug\PMS_TICKET.pdb (Full PDB)
